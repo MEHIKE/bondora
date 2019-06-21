@@ -1,0 +1,84 @@
+DEBUG - 2016-07-03 19:18:08 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:08 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:08 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:08 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-07-03 19:18:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:08 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:08 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:08 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:08 --> Total execution time: 0.0550
+DEBUG - 2016-07-03 19:18:08 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-07-03 19:18:08 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2016-07-03 19:18:14 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:14 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:14 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:14 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:15 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:15 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:15 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:15 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-07-03 19:18:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:15 --> SELECT *
+FROM `select` `a`.*, `b`.`statusCode from auction_payload a LEFT JOIN bid_payload b ON a`.`auctionId=b`.`auctionId and a`.`user=b`.`userName where` `user="mehike"`
+DEBUG - 2016-07-03 19:18:15 --> Total execution time: 0.1440
+DEBUG - 2016-07-03 19:18:15 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-07-03 19:18:15 --> 404 Page Not Found: Auctions/bootstrap
+DEBUG - 2016-07-03 19:18:17 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:17 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:17 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:17 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-07-03 19:18:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:17 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:17 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:17 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:28 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:28 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:28 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:30 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:30 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:30 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:32 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:32 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:32 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:34 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:35 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:35 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:35 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-07-03 19:18:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:36 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:36 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:36 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:38 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:38 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:38 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:39 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:39 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:39 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:41 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-07-03 19:18:41 --> cURL Class Initialized
+DEBUG - 2016-07-03 19:18:41 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:41 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-07-03 19:18:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-07-03 19:18:41 --> SELECT *
+FROM `select` `a`.*, `b`.`statusCode from auction_payload a LEFT JOIN bid_payload b ON a`.`auctionId=b`.`auctionId and a`.`user=b`.`userName where` `user="mehike"`
+DEBUG - 2016-07-03 19:18:41 --> Total execution time: 0.4700
+DEBUG - 2016-07-03 19:18:42 --> UTF-8 Support Disabled
+DEBUG - 2016-07-03 19:18:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-07-03 19:18:42 --> 404 Page Not Found: Auctions/bootstrap

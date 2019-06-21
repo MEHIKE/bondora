@@ -1,0 +1,23 @@
+DEBUG - 2015-12-17 15:10:54 --> UTF-8 Support Disabled
+DEBUG - 2015-12-17 15:10:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-17 15:10:54 --> cURL Class Initialized
+DEBUG - 2015-12-17 15:10:54 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-17 15:10:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-17 15:10:54 --> Total execution time: 0.4820
+DEBUG - 2015-12-17 15:10:56 --> UTF-8 Support Disabled
+DEBUG - 2015-12-17 15:10:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-17 15:10:56 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2015-12-17 15:12:22 --> UTF-8 Support Disabled
+DEBUG - 2015-12-17 15:12:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-17 15:12:22 --> cURL Class Initialized
+DEBUG - 2015-12-17 15:12:22 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-17 15:12:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-17 15:12:22 --> UTF-8 Support Disabled
+DEBUG - 2015-12-17 15:12:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-17 15:12:22 --> cURL Class Initialized
+DEBUG - 2015-12-17 15:12:22 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-17 15:12:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-17 15:12:22 --> Total execution time: 0.1160
+DEBUG - 2015-12-17 15:12:22 --> UTF-8 Support Disabled
+DEBUG - 2015-12-17 15:12:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-17 15:12:22 --> 404 Page Not Found: User/bootstrap

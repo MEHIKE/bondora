@@ -1,0 +1,57 @@
+DEBUG - 2015-12-19 05:45:06 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 05:45:06 --> cURL Class Initialized
+DEBUG - 2015-12-19 05:45:06 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:45:06 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2015-12-19 05:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:45:06 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 05:45:06 --> cURL Class Initialized
+DEBUG - 2015-12-19 05:45:06 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:45:06 --> Total execution time: 0.0710
+DEBUG - 2015-12-19 05:45:06 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:45:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-19 05:45:06 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2015-12-19 05:47:32 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:47:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 05:47:32 --> cURL Class Initialized
+DEBUG - 2015-12-19 05:47:32 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:47:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:47:32 --> Total execution time: 0.0790
+DEBUG - 2015-12-19 05:47:32 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:47:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-19 05:47:32 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2015-12-19 05:48:27 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:48:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 05:48:28 --> cURL Class Initialized
+DEBUG - 2015-12-19 05:48:28 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:48:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:48:28 --> Total execution time: 0.0870
+DEBUG - 2015-12-19 05:48:28 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:48:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-19 05:48:28 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2015-12-19 05:49:23 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:49:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 05:49:23 --> cURL Class Initialized
+DEBUG - 2015-12-19 05:49:23 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:49:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:49:23 --> Total execution time: 0.0830
+DEBUG - 2015-12-19 05:49:23 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:49:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-19 05:49:23 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2015-12-19 05:56:36 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:56:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 05:56:36 --> cURL Class Initialized
+DEBUG - 2015-12-19 05:56:36 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:56:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 05:56:37 --> Total execution time: 0.0900
+DEBUG - 2015-12-19 05:56:37 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 05:56:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2015-12-19 05:56:37 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2015-12-19 06:23:32 --> UTF-8 Support Disabled
+DEBUG - 2015-12-19 06:23:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2015-12-19 06:23:32 --> cURL Class Initialized
+DEBUG - 2015-12-19 06:23:32 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 06:23:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-12-19 06:23:32 --> Total execution time: 0.0900

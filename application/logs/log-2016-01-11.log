@@ -1,0 +1,6 @@
+DEBUG - 2016-01-11 13:19:51 --> UTF-8 Support Disabled
+DEBUG - 2016-01-11 13:19:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-11 13:19:51 --> cURL Class Initialized
+DEBUG - 2016-01-11 13:19:51 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-11 13:19:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-11 13:19:51 --> Total execution time: 0.4510

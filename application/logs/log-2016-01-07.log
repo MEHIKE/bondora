@@ -1,0 +1,279 @@
+DEBUG - 2016-01-07 08:03:27 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 08:03:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 08:03:28 --> cURL Class Initialized
+DEBUG - 2016-01-07 08:03:28 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 08:03:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 08:03:28 --> Total execution time: 0.3990
+DEBUG - 2016-01-07 08:03:28 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 08:03:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 08:03:28 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2016-01-07 08:03:32 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 08:03:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 08:03:32 --> cURL Class Initialized
+DEBUG - 2016-01-07 08:03:32 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 08:03:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 08:03:32 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 08:03:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 08:03:32 --> cURL Class Initialized
+DEBUG - 2016-01-07 08:03:32 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 08:03:32 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 08:03:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 08:03:32 --> SELECT *
+FROM `select` `a`.*, `b`.`statusCode from auction_payload a LEFT JOIN bid_payload b ON a`.`auctionId=b`.`auctionId and a`.`user=b`.`userName where` `user="mehike"`
+DEBUG - 2016-01-07 08:03:33 --> Total execution time: 0.2240
+DEBUG - 2016-01-07 08:03:33 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 08:03:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 08:03:33 --> 404 Page Not Found: Auctions/bootstrap
+DEBUG - 2016-01-07 12:35:36 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:35:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:35:36 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:35:36 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:36 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:35:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:37 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:35:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:35:37 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:35:37 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:37 --> Total execution time: 0.1040
+DEBUG - 2016-01-07 12:35:39 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:35:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:35:40 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:35:40 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:40 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:35:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:35:40 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:35:40 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:40 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:35:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:35:40 --> SELECT *
+FROM `select` `a`.*, `b`.`statusCode from auction_payload a LEFT JOIN bid_payload b ON a`.`auctionId=b`.`auctionId and a`.`user=b`.`userName where` `user="mehike"`
+DEBUG - 2016-01-07 12:35:40 --> Total execution time: 0.2660
+DEBUG - 2016-01-07 12:35:40 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:35:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 12:35:40 --> 404 Page Not Found: Auctions/bootstrap
+DEBUG - 2016-01-07 12:36:50 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:36:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:36:50 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:36:50 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:36:50 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:36:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:36:50 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-01-07 12:36:50 --> Severity: Notice --> Undefined variable: viivises1 C:\xampp\htdocs\bondora\application\views\investments\index.php 601
+ERROR - 2016-01-07 12:36:50 --> Severity: Notice --> Undefined variable: kkk1 C:\xampp\htdocs\bondora\application\views\investments\index.php 598
+DEBUG - 2016-01-07 12:36:51 --> Total execution time: 0.3550
+DEBUG - 2016-01-07 12:36:51 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:36:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 12:36:51 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 12:38:33 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:38:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:38:33 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:38:33 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:38:33 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:38:33 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:38:35 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:38:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:38:35 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:38:35 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:39:57 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:39:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:39:57 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:39:57 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:39:59 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:39:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:39:59 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:39:59 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:39:59 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:39:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:39:59 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-01-07 12:40:00 --> Severity: Notice --> Undefined variable: kkk1 C:\xampp\htdocs\bondora\application\views\investments\index.php 599
+DEBUG - 2016-01-07 12:40:00 --> Total execution time: 0.5780
+DEBUG - 2016-01-07 12:40:00 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:40:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 12:40:00 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 12:41:23 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:41:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:41:23 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:41:23 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:41:23 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:41:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:41:26 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 12:41:26 --> Total execution time: 3.4722
+DEBUG - 2016-01-07 12:41:27 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:41:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 12:41:27 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 12:49:55 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:49:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 12:49:55 --> cURL Class Initialized
+DEBUG - 2016-01-07 12:49:55 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:49:55 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 12:49:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 12:49:58 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 12:49:58 --> Total execution time: 3.3432
+DEBUG - 2016-01-07 12:49:59 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 12:49:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 12:49:59 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:05:50 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:05:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:05:50 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:05:50 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:05:50 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:05:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:05:50 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:05:50 --> Total execution time: 0.3040
+DEBUG - 2016-01-07 13:05:51 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:05:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:05:51 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:06:06 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:06:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:06:06 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:06:06 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:06:06 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:06:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:06:06 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:06:06 --> Total execution time: 0.2350
+DEBUG - 2016-01-07 13:06:06 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:06:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:06:06 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:06:25 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:06:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:06:25 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:06:25 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:06:25 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:06:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:06:25 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:06:25 --> Total execution time: 0.2520
+DEBUG - 2016-01-07 13:06:26 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:06:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:06:26 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:06:36 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:06:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:06:36 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:06:36 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:06:36 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:06:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:06:36 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:06:37 --> Total execution time: 0.2080
+DEBUG - 2016-01-07 13:06:37 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:06:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:06:37 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:09:02 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:09:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:09:02 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:09:02 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:09:02 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:09:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:09:02 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:09:02 --> Total execution time: 0.2540
+DEBUG - 2016-01-07 13:09:03 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:09:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:09:03 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:09:22 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:09:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:09:22 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:09:22 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:09:22 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:09:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:09:22 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:09:22 --> Total execution time: 0.3430
+DEBUG - 2016-01-07 13:09:23 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:09:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:09:23 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:09:38 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:09:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:09:38 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:09:38 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:09:38 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:09:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:09:38 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:09:38 --> Total execution time: 0.1820
+DEBUG - 2016-01-07 13:09:38 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:09:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:09:38 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:12:25 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:12:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:12:25 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:12:25 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:12:25 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:12:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:12:25 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:12:25 --> Total execution time: 0.2280
+DEBUG - 2016-01-07 13:12:25 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:12:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:12:25 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:12:37 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:12:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:12:37 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:12:37 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:12:37 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:12:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:12:37 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:12:37 --> Total execution time: 0.2420
+DEBUG - 2016-01-07 13:12:38 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:12:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:12:38 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:12:44 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:12:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:12:44 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:12:44 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:12:44 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:12:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:12:44 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:12:44 --> Total execution time: 0.2320
+DEBUG - 2016-01-07 13:12:45 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:12:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:12:45 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:14:17 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:14:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:14:17 --> Severity: Parsing Error --> syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) C:\xampp\htdocs\bondora\application\controllers\Investments.php 355
+DEBUG - 2016-01-07 13:14:56 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:14:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:14:56 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:14:56 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:14:56 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:14:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:14:56 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:14:56 --> Total execution time: 0.1550
+DEBUG - 2016-01-07 13:14:57 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:14:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:14:57 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:15:03 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:15:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:15:03 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:15:03 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:15:03 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:15:03 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:15:03 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:15:03 --> Total execution time: 0.1560
+DEBUG - 2016-01-07 13:15:03 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:15:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:15:03 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-01-07 13:21:06 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:21:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-07 13:21:07 --> cURL Class Initialized
+DEBUG - 2016-01-07 13:21:07 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:21:07 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-07 13:21:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-07 13:21:10 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-01-07 13:21:10 --> Total execution time: 3.5952
+DEBUG - 2016-01-07 13:21:11 --> UTF-8 Support Disabled
+DEBUG - 2016-01-07 13:21:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-07 13:21:11 --> 404 Page Not Found: Investments/bootstrap

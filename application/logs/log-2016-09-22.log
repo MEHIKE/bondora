@@ -1,0 +1,8 @@
+DEBUG - 2016-09-22 08:56:29 --> UTF-8 Support Disabled
+DEBUG - 2016-09-22 08:56:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-22 08:56:29 --> cURL Class Initialized
+DEBUG - 2016-09-22 08:56:29 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-22 08:56:29 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-09-22 08:56:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\bondora\system\database\drivers\mysqli\mysqli_driver.php 161
+ERROR - 2016-09-22 08:56:31 --> Unable to connect to the database

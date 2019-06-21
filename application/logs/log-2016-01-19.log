@@ -1,0 +1,15 @@
+DEBUG - 2016-01-19 06:17:05 --> UTF-8 Support Disabled
+DEBUG - 2016-01-19 06:17:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-19 06:17:05 --> cURL Class Initialized
+DEBUG - 2016-01-19 06:17:05 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-19 06:17:05 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-01-19 06:17:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-19 06:17:06 --> UTF-8 Support Disabled
+DEBUG - 2016-01-19 06:17:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-01-19 06:17:06 --> cURL Class Initialized
+DEBUG - 2016-01-19 06:17:06 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-01-19 06:17:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-01-19 06:17:06 --> Total execution time: 0.1200
+DEBUG - 2016-01-19 06:17:06 --> UTF-8 Support Disabled
+DEBUG - 2016-01-19 06:17:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-01-19 06:17:06 --> 404 Page Not Found: User/bootstrap

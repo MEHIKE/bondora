@@ -1,0 +1,1330 @@
+INFO - 2015-12-01 18:36:31 --> Config Class Initialized
+INFO - 2015-12-01 18:36:31 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:31 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:31 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:31 --> URI Class Initialized
+INFO - 2015-12-01 18:36:31 --> Router Class Initialized
+INFO - 2015-12-01 18:36:31 --> Output Class Initialized
+INFO - 2015-12-01 18:36:31 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:31 --> Input Class Initialized
+INFO - 2015-12-01 18:36:31 --> Language Class Initialized
+INFO - 2015-12-01 18:36:31 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:31 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:31 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:31 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:31 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:31 --> Controller Class Initialized
+INFO - 2015-12-01 18:36:31 --> Model Class Initialized
+INFO - 2015-12-01 18:36:31 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:36:31 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:36:31 --> Table Class Initialized
+DEBUG - 2015-12-01 18:36:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:31 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:36:31 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:36:32 --> Config Class Initialized
+INFO - 2015-12-01 18:36:32 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:32 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:32 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:32 --> URI Class Initialized
+INFO - 2015-12-01 18:36:32 --> Router Class Initialized
+INFO - 2015-12-01 18:36:32 --> Output Class Initialized
+INFO - 2015-12-01 18:36:32 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:32 --> Input Class Initialized
+INFO - 2015-12-01 18:36:32 --> Language Class Initialized
+INFO - 2015-12-01 18:36:32 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:32 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:32 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:32 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:32 --> Controller Class Initialized
+ERROR - 2015-12-01 18:36:32 --> Severity: Notice --> Undefined index: redirect_uri C:\xampp\htdocs\bondora\sparks\oauth2\0.4.0\libraries\Provider.php 121
+INFO - 2015-12-01 18:36:38 --> Config Class Initialized
+INFO - 2015-12-01 18:36:38 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:38 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:38 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:38 --> URI Class Initialized
+INFO - 2015-12-01 18:36:38 --> Router Class Initialized
+INFO - 2015-12-01 18:36:38 --> Output Class Initialized
+INFO - 2015-12-01 18:36:38 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:38 --> Input Class Initialized
+INFO - 2015-12-01 18:36:38 --> Language Class Initialized
+INFO - 2015-12-01 18:36:38 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:38 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:38 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:38 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:38 --> Controller Class Initialized
+INFO - 2015-12-01 18:36:39 --> Config Class Initialized
+INFO - 2015-12-01 18:36:39 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:39 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:39 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:39 --> URI Class Initialized
+INFO - 2015-12-01 18:36:39 --> Router Class Initialized
+INFO - 2015-12-01 18:36:39 --> Output Class Initialized
+INFO - 2015-12-01 18:36:39 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:39 --> Input Class Initialized
+INFO - 2015-12-01 18:36:39 --> Language Class Initialized
+INFO - 2015-12-01 18:36:39 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:39 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:39 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:39 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:39 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:39 --> Controller Class Initialized
+ERROR - 2015-12-01 18:36:39 --> Severity: Notice --> Undefined index: redirect_uri C:\xampp\htdocs\bondora\sparks\oauth2\0.4.0\libraries\Provider.php 121
+INFO - 2015-12-01 18:36:40 --> Config Class Initialized
+INFO - 2015-12-01 18:36:40 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:40 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:40 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:40 --> URI Class Initialized
+INFO - 2015-12-01 18:36:40 --> Router Class Initialized
+INFO - 2015-12-01 18:36:40 --> Output Class Initialized
+INFO - 2015-12-01 18:36:40 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:40 --> Input Class Initialized
+INFO - 2015-12-01 18:36:40 --> Language Class Initialized
+INFO - 2015-12-01 18:36:40 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:40 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:40 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:40 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:40 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:40 --> Controller Class Initialized
+INFO - 2015-12-01 18:36:41 --> Config Class Initialized
+INFO - 2015-12-01 18:36:41 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:41 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:41 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:41 --> URI Class Initialized
+INFO - 2015-12-01 18:36:41 --> Router Class Initialized
+INFO - 2015-12-01 18:36:41 --> Output Class Initialized
+INFO - 2015-12-01 18:36:41 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:41 --> Input Class Initialized
+INFO - 2015-12-01 18:36:41 --> Language Class Initialized
+INFO - 2015-12-01 18:36:41 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:41 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:41 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:41 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:41 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:41 --> Controller Class Initialized
+INFO - 2015-12-01 18:36:41 --> Model Class Initialized
+INFO - 2015-12-01 18:36:41 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:36:41 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:36:41 --> Table Class Initialized
+DEBUG - 2015-12-01 18:36:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:41 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:36:41 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:36:42 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 18:36:42 --> File loaded: C:\xampp\htdocs\bondora\application\views\filters/index.php
+INFO - 2015-12-01 18:36:42 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:36:42 --> Final output sent to browser
+DEBUG - 2015-12-01 18:36:42 --> Total execution time: 0.4830
+INFO - 2015-12-01 18:36:45 --> Config Class Initialized
+INFO - 2015-12-01 18:36:45 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:45 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:45 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:45 --> URI Class Initialized
+INFO - 2015-12-01 18:36:45 --> Router Class Initialized
+INFO - 2015-12-01 18:36:45 --> Output Class Initialized
+INFO - 2015-12-01 18:36:45 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:45 --> Input Class Initialized
+INFO - 2015-12-01 18:36:45 --> Language Class Initialized
+INFO - 2015-12-01 18:36:45 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:45 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:45 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:45 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:45 --> Controller Class Initialized
+INFO - 2015-12-01 18:36:45 --> Model Class Initialized
+INFO - 2015-12-01 18:36:45 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:36:45 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:36:45 --> Table Class Initialized
+DEBUG - 2015-12-01 18:36:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:45 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:36:45 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:36:45 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 18:36:45 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 381
+ERROR - 2015-12-01 18:36:45 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 381
+ERROR - 2015-12-01 18:36:45 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 381
+INFO - 2015-12-01 18:36:45 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 18:36:45 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:36:45 --> Final output sent to browser
+DEBUG - 2015-12-01 18:36:45 --> Total execution time: 0.4420
+INFO - 2015-12-01 18:36:50 --> Config Class Initialized
+INFO - 2015-12-01 18:36:50 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:36:50 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:36:50 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:36:50 --> URI Class Initialized
+INFO - 2015-12-01 18:36:50 --> Router Class Initialized
+INFO - 2015-12-01 18:36:50 --> Output Class Initialized
+INFO - 2015-12-01 18:36:50 --> Security Class Initialized
+DEBUG - 2015-12-01 18:36:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:36:50 --> Input Class Initialized
+INFO - 2015-12-01 18:36:50 --> Language Class Initialized
+INFO - 2015-12-01 18:36:50 --> Loader Class Initialized
+INFO - 2015-12-01 18:36:50 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:36:50 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:36:50 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:36:50 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:50 --> Controller Class Initialized
+INFO - 2015-12-01 18:36:50 --> Model Class Initialized
+INFO - 2015-12-01 18:36:50 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:36:50 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:36:50 --> Table Class Initialized
+DEBUG - 2015-12-01 18:36:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:36:50 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:36:50 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:36:50 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 18:36:50 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\bondora\application\views\investments\index.php 474
+ERROR - 2015-12-01 18:36:50 --> Severity: Notice --> Undefined variable: waiting C:\xampp\htdocs\bondora\application\views\investments\index.php 474
+INFO - 2015-12-01 18:36:50 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 18:36:50 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:36:50 --> Final output sent to browser
+DEBUG - 2015-12-01 18:36:50 --> Total execution time: 0.5040
+INFO - 2015-12-01 18:37:21 --> Config Class Initialized
+INFO - 2015-12-01 18:37:21 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:37:22 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:37:22 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:37:22 --> URI Class Initialized
+INFO - 2015-12-01 18:37:22 --> Router Class Initialized
+INFO - 2015-12-01 18:37:22 --> Output Class Initialized
+INFO - 2015-12-01 18:37:22 --> Security Class Initialized
+DEBUG - 2015-12-01 18:37:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:37:22 --> Input Class Initialized
+INFO - 2015-12-01 18:37:22 --> Language Class Initialized
+INFO - 2015-12-01 18:37:22 --> Loader Class Initialized
+INFO - 2015-12-01 18:37:22 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:37:22 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:37:22 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:37:22 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:37:22 --> Controller Class Initialized
+INFO - 2015-12-01 18:37:22 --> Model Class Initialized
+INFO - 2015-12-01 18:37:22 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:37:22 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:37:22 --> Table Class Initialized
+DEBUG - 2015-12-01 18:37:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:37:22 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:37:22 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:37:24 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 18:37:24 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 18:37:24 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:37:24 --> Final output sent to browser
+DEBUG - 2015-12-01 18:37:24 --> Total execution time: 2.7082
+INFO - 2015-12-01 18:49:01 --> Config Class Initialized
+INFO - 2015-12-01 18:49:01 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:49:01 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:49:01 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:49:01 --> URI Class Initialized
+INFO - 2015-12-01 18:49:01 --> Router Class Initialized
+INFO - 2015-12-01 18:49:01 --> Output Class Initialized
+INFO - 2015-12-01 18:49:01 --> Security Class Initialized
+DEBUG - 2015-12-01 18:49:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:49:01 --> Input Class Initialized
+INFO - 2015-12-01 18:49:01 --> Language Class Initialized
+INFO - 2015-12-01 18:49:01 --> Loader Class Initialized
+INFO - 2015-12-01 18:49:01 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:49:01 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:49:01 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:49:01 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:49:01 --> Controller Class Initialized
+INFO - 2015-12-01 18:49:01 --> Model Class Initialized
+INFO - 2015-12-01 18:49:01 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:49:01 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:49:01 --> Table Class Initialized
+DEBUG - 2015-12-01 18:49:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:49:01 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:49:01 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:49:04 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 18:49:04 --> Severity: Parsing Error --> syntax error, unexpected 'endforeach' (T_ENDFOREACH) C:\xampp\htdocs\bondora\application\views\investments\index.php 465
+INFO - 2015-12-01 18:49:37 --> Config Class Initialized
+INFO - 2015-12-01 18:49:37 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:49:37 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:49:37 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:49:37 --> URI Class Initialized
+INFO - 2015-12-01 18:49:37 --> Router Class Initialized
+INFO - 2015-12-01 18:49:37 --> Output Class Initialized
+INFO - 2015-12-01 18:49:37 --> Security Class Initialized
+DEBUG - 2015-12-01 18:49:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:49:37 --> Input Class Initialized
+INFO - 2015-12-01 18:49:37 --> Language Class Initialized
+INFO - 2015-12-01 18:49:37 --> Loader Class Initialized
+INFO - 2015-12-01 18:49:37 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:49:37 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:49:37 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:49:37 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:49:37 --> Controller Class Initialized
+INFO - 2015-12-01 18:49:37 --> Model Class Initialized
+INFO - 2015-12-01 18:49:37 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:49:37 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:49:37 --> Table Class Initialized
+DEBUG - 2015-12-01 18:49:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:49:37 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:49:37 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:49:39 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 18:49:39 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 18:49:39 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:49:39 --> Final output sent to browser
+DEBUG - 2015-12-01 18:49:39 --> Total execution time: 2.4941
+INFO - 2015-12-01 18:52:06 --> Config Class Initialized
+INFO - 2015-12-01 18:52:06 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:52:06 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:52:06 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:52:06 --> URI Class Initialized
+INFO - 2015-12-01 18:52:06 --> Router Class Initialized
+INFO - 2015-12-01 18:52:06 --> Output Class Initialized
+INFO - 2015-12-01 18:52:06 --> Security Class Initialized
+DEBUG - 2015-12-01 18:52:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:52:06 --> Input Class Initialized
+INFO - 2015-12-01 18:52:06 --> Language Class Initialized
+INFO - 2015-12-01 18:52:06 --> Loader Class Initialized
+INFO - 2015-12-01 18:52:06 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:52:06 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:52:06 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:52:06 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:52:06 --> Controller Class Initialized
+INFO - 2015-12-01 18:52:06 --> Model Class Initialized
+INFO - 2015-12-01 18:52:06 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:52:06 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:52:06 --> Table Class Initialized
+DEBUG - 2015-12-01 18:52:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:52:06 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:52:06 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:52:09 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 18:52:09 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 18:52:09 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:52:09 --> Final output sent to browser
+DEBUG - 2015-12-01 18:52:09 --> Total execution time: 2.9832
+INFO - 2015-12-01 18:52:30 --> Config Class Initialized
+INFO - 2015-12-01 18:52:30 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:52:30 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:52:30 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:52:30 --> URI Class Initialized
+INFO - 2015-12-01 18:52:30 --> Router Class Initialized
+INFO - 2015-12-01 18:52:30 --> Output Class Initialized
+INFO - 2015-12-01 18:52:30 --> Security Class Initialized
+DEBUG - 2015-12-01 18:52:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:52:30 --> Input Class Initialized
+INFO - 2015-12-01 18:52:30 --> Language Class Initialized
+INFO - 2015-12-01 18:52:30 --> Loader Class Initialized
+INFO - 2015-12-01 18:52:30 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:52:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:52:30 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:52:30 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:52:30 --> Controller Class Initialized
+INFO - 2015-12-01 18:52:30 --> Model Class Initialized
+INFO - 2015-12-01 18:52:30 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:52:30 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:52:30 --> Table Class Initialized
+DEBUG - 2015-12-01 18:52:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:52:30 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:52:30 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:52:33 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 18:52:33 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 18:52:33 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:52:33 --> Final output sent to browser
+DEBUG - 2015-12-01 18:52:33 --> Total execution time: 2.7092
+INFO - 2015-12-01 18:57:52 --> Config Class Initialized
+INFO - 2015-12-01 18:57:52 --> Hooks Class Initialized
+DEBUG - 2015-12-01 18:57:52 --> UTF-8 Support Disabled
+INFO - 2015-12-01 18:57:52 --> Utf8 Class Initialized
+INFO - 2015-12-01 18:57:52 --> URI Class Initialized
+INFO - 2015-12-01 18:57:52 --> Router Class Initialized
+INFO - 2015-12-01 18:57:52 --> Output Class Initialized
+INFO - 2015-12-01 18:57:52 --> Security Class Initialized
+DEBUG - 2015-12-01 18:57:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 18:57:52 --> Input Class Initialized
+INFO - 2015-12-01 18:57:52 --> Language Class Initialized
+INFO - 2015-12-01 18:57:52 --> Loader Class Initialized
+INFO - 2015-12-01 18:57:52 --> Helper loaded: url_helper
+INFO - 2015-12-01 18:57:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 18:57:52 --> cURL Class Initialized
+DEBUG - 2015-12-01 18:57:52 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:57:52 --> Controller Class Initialized
+INFO - 2015-12-01 18:57:52 --> Model Class Initialized
+INFO - 2015-12-01 18:57:52 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 18:57:52 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 18:57:52 --> Table Class Initialized
+DEBUG - 2015-12-01 18:57:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:57:52 --> Helper loaded: form_helper
+INFO - 2015-12-01 18:57:52 --> Form Validation Class Initialized
+INFO - 2015-12-01 18:57:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 18:57:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 18:57:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:57:54 --> Final output sent to browser
+DEBUG - 2015-12-01 18:57:54 --> Total execution time: 2.6592
+INFO - 2015-12-01 19:01:13 --> Config Class Initialized
+INFO - 2015-12-01 19:01:13 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:01:13 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:01:13 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:01:13 --> URI Class Initialized
+INFO - 2015-12-01 19:01:13 --> Router Class Initialized
+INFO - 2015-12-01 19:01:13 --> Output Class Initialized
+INFO - 2015-12-01 19:01:13 --> Security Class Initialized
+DEBUG - 2015-12-01 19:01:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:01:13 --> Input Class Initialized
+INFO - 2015-12-01 19:01:13 --> Language Class Initialized
+INFO - 2015-12-01 19:01:13 --> Loader Class Initialized
+INFO - 2015-12-01 19:01:13 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:01:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:01:13 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:01:13 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:01:13 --> Controller Class Initialized
+INFO - 2015-12-01 19:01:13 --> Model Class Initialized
+INFO - 2015-12-01 19:01:13 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:01:13 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:01:13 --> Table Class Initialized
+DEBUG - 2015-12-01 19:01:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:01:13 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:01:13 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:01:16 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:01:16 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:01:16 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:01:16 --> Final output sent to browser
+DEBUG - 2015-12-01 19:01:16 --> Total execution time: 2.7232
+INFO - 2015-12-01 19:05:43 --> Config Class Initialized
+INFO - 2015-12-01 19:05:43 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:05:43 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:05:43 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:05:43 --> URI Class Initialized
+INFO - 2015-12-01 19:05:43 --> Router Class Initialized
+INFO - 2015-12-01 19:05:43 --> Output Class Initialized
+INFO - 2015-12-01 19:05:43 --> Security Class Initialized
+DEBUG - 2015-12-01 19:05:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:05:43 --> Input Class Initialized
+INFO - 2015-12-01 19:05:43 --> Language Class Initialized
+INFO - 2015-12-01 19:05:43 --> Loader Class Initialized
+INFO - 2015-12-01 19:05:43 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:05:43 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:05:43 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:05:43 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:05:43 --> Controller Class Initialized
+INFO - 2015-12-01 19:05:43 --> Model Class Initialized
+INFO - 2015-12-01 19:05:43 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:05:43 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:05:43 --> Table Class Initialized
+DEBUG - 2015-12-01 19:05:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:05:43 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:05:43 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:05:46 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:05:46 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:05:46 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:05:46 --> Final output sent to browser
+DEBUG - 2015-12-01 19:05:46 --> Total execution time: 2.6922
+INFO - 2015-12-01 19:09:54 --> Config Class Initialized
+INFO - 2015-12-01 19:09:54 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:09:54 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:09:54 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:09:54 --> URI Class Initialized
+INFO - 2015-12-01 19:09:54 --> Router Class Initialized
+INFO - 2015-12-01 19:09:54 --> Output Class Initialized
+INFO - 2015-12-01 19:09:54 --> Security Class Initialized
+DEBUG - 2015-12-01 19:09:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:09:54 --> Input Class Initialized
+INFO - 2015-12-01 19:09:54 --> Language Class Initialized
+INFO - 2015-12-01 19:09:54 --> Loader Class Initialized
+INFO - 2015-12-01 19:09:54 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:09:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:09:54 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:09:54 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:09:54 --> Controller Class Initialized
+INFO - 2015-12-01 19:09:54 --> Model Class Initialized
+INFO - 2015-12-01 19:09:54 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:09:54 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:09:54 --> Table Class Initialized
+DEBUG - 2015-12-01 19:09:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:09:54 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:09:54 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:09:56 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:09:56 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:09:56 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:09:56 --> Final output sent to browser
+DEBUG - 2015-12-01 19:09:56 --> Total execution time: 2.7992
+INFO - 2015-12-01 19:10:51 --> Config Class Initialized
+INFO - 2015-12-01 19:10:51 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:10:51 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:10:51 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:10:51 --> URI Class Initialized
+INFO - 2015-12-01 19:10:51 --> Router Class Initialized
+INFO - 2015-12-01 19:10:51 --> Output Class Initialized
+INFO - 2015-12-01 19:10:51 --> Security Class Initialized
+DEBUG - 2015-12-01 19:10:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:10:51 --> Input Class Initialized
+INFO - 2015-12-01 19:10:51 --> Language Class Initialized
+INFO - 2015-12-01 19:10:51 --> Loader Class Initialized
+INFO - 2015-12-01 19:10:51 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:10:51 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:10:51 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:10:51 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:10:51 --> Controller Class Initialized
+INFO - 2015-12-01 19:10:51 --> Model Class Initialized
+INFO - 2015-12-01 19:10:51 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:10:51 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:10:51 --> Table Class Initialized
+DEBUG - 2015-12-01 19:10:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:10:51 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:10:51 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:10:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 19:10:54 --> Severity: Notice --> Undefined index: InterestLateAmount C:\xampp\htdocs\bondora\application\views\investments\index.php 243
+ERROR - 2015-12-01 19:10:54 --> Severity: Notice --> Undefined index: InterestLateAmount C:\xampp\htdocs\bondora\application\views\investments\index.php 243
+INFO - 2015-12-01 19:10:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:10:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:10:54 --> Final output sent to browser
+DEBUG - 2015-12-01 19:10:54 --> Total execution time: 2.5171
+INFO - 2015-12-01 19:11:04 --> Config Class Initialized
+INFO - 2015-12-01 19:11:04 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:04 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:04 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:04 --> URI Class Initialized
+INFO - 2015-12-01 19:11:04 --> Router Class Initialized
+INFO - 2015-12-01 19:11:04 --> Output Class Initialized
+INFO - 2015-12-01 19:11:04 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:04 --> Input Class Initialized
+INFO - 2015-12-01 19:11:04 --> Language Class Initialized
+INFO - 2015-12-01 19:11:04 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:04 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:04 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:04 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:04 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:04 --> Model Class Initialized
+INFO - 2015-12-01 19:11:04 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:11:04 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:11:04 --> Table Class Initialized
+DEBUG - 2015-12-01 19:11:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:04 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:11:04 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:11:05 --> Config Class Initialized
+INFO - 2015-12-01 19:11:05 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:05 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:05 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:05 --> URI Class Initialized
+INFO - 2015-12-01 19:11:05 --> Router Class Initialized
+INFO - 2015-12-01 19:11:05 --> Output Class Initialized
+INFO - 2015-12-01 19:11:05 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:05 --> Input Class Initialized
+INFO - 2015-12-01 19:11:05 --> Language Class Initialized
+INFO - 2015-12-01 19:11:05 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:05 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:05 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:05 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:05 --> Controller Class Initialized
+ERROR - 2015-12-01 19:11:05 --> Severity: Notice --> Undefined index: redirect_uri C:\xampp\htdocs\bondora\sparks\oauth2\0.4.0\libraries\Provider.php 121
+INFO - 2015-12-01 19:11:07 --> Config Class Initialized
+INFO - 2015-12-01 19:11:07 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:07 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:07 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:07 --> URI Class Initialized
+INFO - 2015-12-01 19:11:07 --> Router Class Initialized
+INFO - 2015-12-01 19:11:07 --> Output Class Initialized
+INFO - 2015-12-01 19:11:07 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:07 --> Input Class Initialized
+INFO - 2015-12-01 19:11:07 --> Language Class Initialized
+INFO - 2015-12-01 19:11:07 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:07 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:07 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:07 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:07 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:07 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:07 --> Config Class Initialized
+INFO - 2015-12-01 19:11:07 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:07 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:07 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:07 --> URI Class Initialized
+INFO - 2015-12-01 19:11:07 --> Router Class Initialized
+INFO - 2015-12-01 19:11:07 --> Output Class Initialized
+INFO - 2015-12-01 19:11:07 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:07 --> Input Class Initialized
+INFO - 2015-12-01 19:11:07 --> Language Class Initialized
+INFO - 2015-12-01 19:11:07 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:07 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:07 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:07 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:07 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:07 --> Controller Class Initialized
+ERROR - 2015-12-01 19:11:07 --> Severity: Notice --> Undefined index: redirect_uri C:\xampp\htdocs\bondora\sparks\oauth2\0.4.0\libraries\Provider.php 121
+INFO - 2015-12-01 19:11:08 --> Config Class Initialized
+INFO - 2015-12-01 19:11:08 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:08 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:08 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:08 --> URI Class Initialized
+INFO - 2015-12-01 19:11:08 --> Router Class Initialized
+INFO - 2015-12-01 19:11:08 --> Output Class Initialized
+INFO - 2015-12-01 19:11:08 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:08 --> Input Class Initialized
+INFO - 2015-12-01 19:11:08 --> Language Class Initialized
+INFO - 2015-12-01 19:11:08 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:08 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:08 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:08 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:08 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:08 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:10 --> Config Class Initialized
+INFO - 2015-12-01 19:11:10 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:10 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:10 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:10 --> URI Class Initialized
+INFO - 2015-12-01 19:11:10 --> Router Class Initialized
+INFO - 2015-12-01 19:11:10 --> Output Class Initialized
+INFO - 2015-12-01 19:11:10 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:10 --> Input Class Initialized
+INFO - 2015-12-01 19:11:10 --> Language Class Initialized
+INFO - 2015-12-01 19:11:10 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:10 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:10 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:10 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:10 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:10 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:10 --> Model Class Initialized
+INFO - 2015-12-01 19:11:10 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:11:10 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:11:10 --> Table Class Initialized
+DEBUG - 2015-12-01 19:11:10 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:10 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:11:10 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:11:10 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:11:10 --> File loaded: C:\xampp\htdocs\bondora\application\views\filters/index.php
+INFO - 2015-12-01 19:11:10 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:11:10 --> Final output sent to browser
+DEBUG - 2015-12-01 19:11:10 --> Total execution time: 0.5180
+INFO - 2015-12-01 19:11:13 --> Config Class Initialized
+INFO - 2015-12-01 19:11:13 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:13 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:13 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:13 --> URI Class Initialized
+INFO - 2015-12-01 19:11:13 --> Router Class Initialized
+INFO - 2015-12-01 19:11:13 --> Output Class Initialized
+INFO - 2015-12-01 19:11:13 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:13 --> Input Class Initialized
+INFO - 2015-12-01 19:11:13 --> Language Class Initialized
+INFO - 2015-12-01 19:11:13 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:13 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:13 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:13 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:13 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:13 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:13 --> Model Class Initialized
+INFO - 2015-12-01 19:11:13 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:11:13 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:11:13 --> Table Class Initialized
+DEBUG - 2015-12-01 19:11:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:13 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:11:13 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:11:14 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 19:11:14 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 381
+ERROR - 2015-12-01 19:11:14 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 381
+ERROR - 2015-12-01 19:11:14 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 381
+INFO - 2015-12-01 19:11:14 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:11:14 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:11:14 --> Final output sent to browser
+DEBUG - 2015-12-01 19:11:14 --> Total execution time: 0.4130
+INFO - 2015-12-01 19:11:17 --> Config Class Initialized
+INFO - 2015-12-01 19:11:17 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:17 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:17 --> URI Class Initialized
+INFO - 2015-12-01 19:11:17 --> Router Class Initialized
+INFO - 2015-12-01 19:11:17 --> Output Class Initialized
+INFO - 2015-12-01 19:11:17 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:17 --> Input Class Initialized
+INFO - 2015-12-01 19:11:17 --> Language Class Initialized
+INFO - 2015-12-01 19:11:17 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:17 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:17 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:17 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:17 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:17 --> Model Class Initialized
+INFO - 2015-12-01 19:11:17 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:11:17 --> Table Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:17 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:11:17 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:11:17 --> Config Class Initialized
+INFO - 2015-12-01 19:11:17 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:17 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:17 --> URI Class Initialized
+INFO - 2015-12-01 19:11:17 --> Router Class Initialized
+INFO - 2015-12-01 19:11:17 --> Output Class Initialized
+INFO - 2015-12-01 19:11:17 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:17 --> Input Class Initialized
+INFO - 2015-12-01 19:11:17 --> Language Class Initialized
+INFO - 2015-12-01 19:11:17 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:18 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 19:11:19 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\bondora\application\views\investments\index.php 485
+ERROR - 2015-12-01 19:11:19 --> Severity: Notice --> Undefined variable: waiting C:\xampp\htdocs\bondora\application\views\investments\index.php 485
+INFO - 2015-12-01 19:11:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:11:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:11:19 --> Final output sent to browser
+DEBUG - 2015-12-01 19:11:19 --> Total execution time: 1.9201
+INFO - 2015-12-01 19:11:19 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:19 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:19 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:19 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:19 --> Model Class Initialized
+INFO - 2015-12-01 19:11:19 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:11:19 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:11:19 --> Table Class Initialized
+DEBUG - 2015-12-01 19:11:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:19 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:11:19 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:11:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 19:11:19 --> Severity: Notice --> Undefined variable: total C:\xampp\htdocs\bondora\application\views\investments\index.php 485
+ERROR - 2015-12-01 19:11:19 --> Severity: Notice --> Undefined variable: waiting C:\xampp\htdocs\bondora\application\views\investments\index.php 485
+INFO - 2015-12-01 19:11:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:11:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:11:19 --> Final output sent to browser
+DEBUG - 2015-12-01 19:11:19 --> Total execution time: 1.7361
+INFO - 2015-12-01 19:11:21 --> Config Class Initialized
+INFO - 2015-12-01 19:11:21 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:11:21 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:11:21 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:11:21 --> URI Class Initialized
+INFO - 2015-12-01 19:11:21 --> Router Class Initialized
+INFO - 2015-12-01 19:11:21 --> Output Class Initialized
+INFO - 2015-12-01 19:11:21 --> Security Class Initialized
+DEBUG - 2015-12-01 19:11:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:11:21 --> Input Class Initialized
+INFO - 2015-12-01 19:11:21 --> Language Class Initialized
+INFO - 2015-12-01 19:11:21 --> Loader Class Initialized
+INFO - 2015-12-01 19:11:21 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:11:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:11:21 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:11:21 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:21 --> Controller Class Initialized
+INFO - 2015-12-01 19:11:21 --> Model Class Initialized
+INFO - 2015-12-01 19:11:21 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:11:21 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:11:21 --> Table Class Initialized
+DEBUG - 2015-12-01 19:11:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:11:21 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:11:21 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:11:23 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:11:23 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:11:23 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:11:23 --> Final output sent to browser
+DEBUG - 2015-12-01 19:11:23 --> Total execution time: 2.5271
+INFO - 2015-12-01 19:13:24 --> Config Class Initialized
+INFO - 2015-12-01 19:13:24 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:13:24 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:13:24 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:13:24 --> URI Class Initialized
+INFO - 2015-12-01 19:13:24 --> Router Class Initialized
+INFO - 2015-12-01 19:13:24 --> Output Class Initialized
+INFO - 2015-12-01 19:13:24 --> Security Class Initialized
+DEBUG - 2015-12-01 19:13:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:13:24 --> Input Class Initialized
+INFO - 2015-12-01 19:13:24 --> Language Class Initialized
+INFO - 2015-12-01 19:13:24 --> Loader Class Initialized
+INFO - 2015-12-01 19:13:24 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:13:24 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:13:24 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:13:24 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:13:24 --> Controller Class Initialized
+INFO - 2015-12-01 19:13:24 --> Model Class Initialized
+INFO - 2015-12-01 19:13:24 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:13:24 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:13:24 --> Table Class Initialized
+DEBUG - 2015-12-01 19:13:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:13:24 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:13:24 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:13:27 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:13:27 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:13:27 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:13:27 --> Final output sent to browser
+DEBUG - 2015-12-01 19:13:27 --> Total execution time: 3.1962
+INFO - 2015-12-01 19:18:56 --> Config Class Initialized
+INFO - 2015-12-01 19:18:56 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:18:56 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:18:56 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:18:56 --> URI Class Initialized
+INFO - 2015-12-01 19:18:56 --> Router Class Initialized
+INFO - 2015-12-01 19:18:56 --> Output Class Initialized
+INFO - 2015-12-01 19:18:56 --> Security Class Initialized
+DEBUG - 2015-12-01 19:18:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:18:56 --> Input Class Initialized
+INFO - 2015-12-01 19:18:56 --> Language Class Initialized
+INFO - 2015-12-01 19:18:56 --> Loader Class Initialized
+INFO - 2015-12-01 19:18:56 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:18:56 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:18:56 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:18:56 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:18:56 --> Controller Class Initialized
+INFO - 2015-12-01 19:18:56 --> Model Class Initialized
+INFO - 2015-12-01 19:18:56 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:18:56 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:18:56 --> Table Class Initialized
+DEBUG - 2015-12-01 19:18:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:18:56 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:18:56 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:18:59 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:18:59 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:18:59 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:18:59 --> Final output sent to browser
+DEBUG - 2015-12-01 19:18:59 --> Total execution time: 2.9132
+INFO - 2015-12-01 19:20:16 --> Config Class Initialized
+INFO - 2015-12-01 19:20:16 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:20:16 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:20:16 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:20:16 --> URI Class Initialized
+INFO - 2015-12-01 19:20:16 --> Router Class Initialized
+INFO - 2015-12-01 19:20:16 --> Output Class Initialized
+INFO - 2015-12-01 19:20:16 --> Security Class Initialized
+DEBUG - 2015-12-01 19:20:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:20:16 --> Input Class Initialized
+INFO - 2015-12-01 19:20:16 --> Language Class Initialized
+INFO - 2015-12-01 19:20:16 --> Loader Class Initialized
+INFO - 2015-12-01 19:20:16 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:20:16 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:20:16 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:20:16 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:20:16 --> Controller Class Initialized
+INFO - 2015-12-01 19:20:16 --> Model Class Initialized
+INFO - 2015-12-01 19:20:16 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:20:16 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:20:16 --> Table Class Initialized
+DEBUG - 2015-12-01 19:20:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:20:16 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:20:16 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:20:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:20:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:20:19 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:20:19 --> Final output sent to browser
+DEBUG - 2015-12-01 19:20:19 --> Total execution time: 2.6632
+INFO - 2015-12-01 19:20:54 --> Config Class Initialized
+INFO - 2015-12-01 19:20:54 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:20:54 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:20:54 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:20:54 --> URI Class Initialized
+INFO - 2015-12-01 19:20:54 --> Router Class Initialized
+INFO - 2015-12-01 19:20:54 --> Output Class Initialized
+INFO - 2015-12-01 19:20:54 --> Security Class Initialized
+DEBUG - 2015-12-01 19:20:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:20:54 --> Input Class Initialized
+INFO - 2015-12-01 19:20:54 --> Language Class Initialized
+INFO - 2015-12-01 19:20:54 --> Loader Class Initialized
+INFO - 2015-12-01 19:20:54 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:20:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:20:54 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:20:54 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:20:54 --> Controller Class Initialized
+INFO - 2015-12-01 19:20:54 --> Model Class Initialized
+INFO - 2015-12-01 19:20:54 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:20:54 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:20:54 --> Table Class Initialized
+DEBUG - 2015-12-01 19:20:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:20:54 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:20:54 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:20:57 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:20:57 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:20:57 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:20:57 --> Final output sent to browser
+DEBUG - 2015-12-01 19:20:57 --> Total execution time: 2.6091
+INFO - 2015-12-01 19:22:32 --> Config Class Initialized
+INFO - 2015-12-01 19:22:32 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:22:32 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:22:32 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:22:32 --> URI Class Initialized
+INFO - 2015-12-01 19:22:32 --> Router Class Initialized
+INFO - 2015-12-01 19:22:32 --> Output Class Initialized
+INFO - 2015-12-01 19:22:32 --> Security Class Initialized
+DEBUG - 2015-12-01 19:22:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:22:32 --> Input Class Initialized
+INFO - 2015-12-01 19:22:32 --> Language Class Initialized
+INFO - 2015-12-01 19:22:32 --> Loader Class Initialized
+INFO - 2015-12-01 19:22:32 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:22:32 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:22:32 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:22:32 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:22:32 --> Controller Class Initialized
+INFO - 2015-12-01 19:22:32 --> Model Class Initialized
+INFO - 2015-12-01 19:22:32 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:22:32 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:22:32 --> Table Class Initialized
+DEBUG - 2015-12-01 19:22:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:22:32 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:22:32 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:22:35 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:22:35 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:22:35 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:22:35 --> Final output sent to browser
+DEBUG - 2015-12-01 19:22:35 --> Total execution time: 2.6211
+INFO - 2015-12-01 19:25:30 --> Config Class Initialized
+INFO - 2015-12-01 19:25:30 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:25:30 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:25:30 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:25:30 --> URI Class Initialized
+INFO - 2015-12-01 19:25:30 --> Router Class Initialized
+INFO - 2015-12-01 19:25:30 --> Output Class Initialized
+INFO - 2015-12-01 19:25:30 --> Security Class Initialized
+DEBUG - 2015-12-01 19:25:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:25:30 --> Input Class Initialized
+INFO - 2015-12-01 19:25:30 --> Language Class Initialized
+INFO - 2015-12-01 19:25:30 --> Loader Class Initialized
+INFO - 2015-12-01 19:25:30 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:25:30 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:25:30 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:25:30 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:25:30 --> Controller Class Initialized
+INFO - 2015-12-01 19:25:30 --> Model Class Initialized
+INFO - 2015-12-01 19:25:30 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:25:30 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:25:30 --> Table Class Initialized
+DEBUG - 2015-12-01 19:25:30 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:25:30 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:25:30 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:25:33 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:25:33 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:25:33 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:25:33 --> Final output sent to browser
+DEBUG - 2015-12-01 19:25:33 --> Total execution time: 2.6672
+INFO - 2015-12-01 19:26:45 --> Config Class Initialized
+INFO - 2015-12-01 19:26:45 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:26:45 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:26:45 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:26:45 --> URI Class Initialized
+INFO - 2015-12-01 19:26:45 --> Router Class Initialized
+INFO - 2015-12-01 19:26:45 --> Output Class Initialized
+INFO - 2015-12-01 19:26:45 --> Security Class Initialized
+DEBUG - 2015-12-01 19:26:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:26:45 --> Input Class Initialized
+INFO - 2015-12-01 19:26:45 --> Language Class Initialized
+INFO - 2015-12-01 19:26:45 --> Loader Class Initialized
+INFO - 2015-12-01 19:26:45 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:26:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:26:45 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:26:45 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:26:45 --> Controller Class Initialized
+INFO - 2015-12-01 19:26:45 --> Model Class Initialized
+INFO - 2015-12-01 19:26:45 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:26:45 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:26:45 --> Table Class Initialized
+DEBUG - 2015-12-01 19:26:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:26:45 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:26:45 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:26:47 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:26:47 --> File loaded: C:\xampp\htdocs\bondora\application\views\investments/index.php
+INFO - 2015-12-01 19:26:47 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:26:48 --> Final output sent to browser
+DEBUG - 2015-12-01 19:26:48 --> Total execution time: 2.6201
+INFO - 2015-12-01 19:26:52 --> Config Class Initialized
+INFO - 2015-12-01 19:26:52 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:26:52 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:26:52 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:26:52 --> URI Class Initialized
+INFO - 2015-12-01 19:26:52 --> Router Class Initialized
+INFO - 2015-12-01 19:26:52 --> Output Class Initialized
+INFO - 2015-12-01 19:26:52 --> Security Class Initialized
+DEBUG - 2015-12-01 19:26:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:26:52 --> Input Class Initialized
+INFO - 2015-12-01 19:26:52 --> Language Class Initialized
+INFO - 2015-12-01 19:26:52 --> Loader Class Initialized
+INFO - 2015-12-01 19:26:52 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:26:52 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:26:52 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:26:52 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:26:52 --> Controller Class Initialized
+INFO - 2015-12-01 19:26:52 --> Model Class Initialized
+INFO - 2015-12-01 19:26:53 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:26:53 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:26:53 --> Table Class Initialized
+DEBUG - 2015-12-01 19:26:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:26:53 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:26:53 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:26:53 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:26:53 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:26:53 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:26:53 --> Final output sent to browser
+DEBUG - 2015-12-01 19:26:53 --> Total execution time: 1.0751
+INFO - 2015-12-01 19:29:58 --> Config Class Initialized
+INFO - 2015-12-01 19:29:58 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:29:58 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:29:58 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:29:58 --> URI Class Initialized
+INFO - 2015-12-01 19:29:58 --> Router Class Initialized
+INFO - 2015-12-01 19:29:58 --> Output Class Initialized
+INFO - 2015-12-01 19:29:58 --> Security Class Initialized
+DEBUG - 2015-12-01 19:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:29:58 --> Input Class Initialized
+INFO - 2015-12-01 19:29:58 --> Language Class Initialized
+INFO - 2015-12-01 19:29:58 --> Loader Class Initialized
+INFO - 2015-12-01 19:29:58 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:29:58 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:29:58 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:29:58 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:29:58 --> Controller Class Initialized
+INFO - 2015-12-01 19:29:58 --> Model Class Initialized
+INFO - 2015-12-01 19:29:58 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:29:58 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:29:58 --> Table Class Initialized
+DEBUG - 2015-12-01 19:29:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:29:58 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:29:58 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:29:59 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:29:59 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:29:59 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:29:59 --> Final output sent to browser
+DEBUG - 2015-12-01 19:29:59 --> Total execution time: 0.9971
+INFO - 2015-12-01 19:32:38 --> Config Class Initialized
+INFO - 2015-12-01 19:32:38 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:32:38 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:32:38 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:32:38 --> URI Class Initialized
+INFO - 2015-12-01 19:32:38 --> Router Class Initialized
+INFO - 2015-12-01 19:32:38 --> Output Class Initialized
+INFO - 2015-12-01 19:32:38 --> Security Class Initialized
+DEBUG - 2015-12-01 19:32:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:32:38 --> Input Class Initialized
+INFO - 2015-12-01 19:32:38 --> Language Class Initialized
+INFO - 2015-12-01 19:32:38 --> Loader Class Initialized
+INFO - 2015-12-01 19:32:38 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:32:38 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:32:38 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:32:38 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:32:38 --> Controller Class Initialized
+INFO - 2015-12-01 19:32:38 --> Model Class Initialized
+INFO - 2015-12-01 19:32:38 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:32:38 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:32:38 --> Table Class Initialized
+DEBUG - 2015-12-01 19:32:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:32:38 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:32:38 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:32:39 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:32:39 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:32:39 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:32:39 --> Final output sent to browser
+DEBUG - 2015-12-01 19:32:39 --> Total execution time: 1.1111
+INFO - 2015-12-01 19:32:51 --> Config Class Initialized
+INFO - 2015-12-01 19:32:51 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:32:51 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:32:51 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:32:51 --> URI Class Initialized
+INFO - 2015-12-01 19:32:51 --> Router Class Initialized
+INFO - 2015-12-01 19:32:51 --> Output Class Initialized
+INFO - 2015-12-01 19:32:51 --> Security Class Initialized
+DEBUG - 2015-12-01 19:32:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:32:51 --> Input Class Initialized
+INFO - 2015-12-01 19:32:51 --> Language Class Initialized
+INFO - 2015-12-01 19:32:51 --> Loader Class Initialized
+INFO - 2015-12-01 19:32:51 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:32:51 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:32:51 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:32:51 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:32:51 --> Controller Class Initialized
+INFO - 2015-12-01 19:32:51 --> Model Class Initialized
+INFO - 2015-12-01 19:32:51 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:32:51 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:32:51 --> Table Class Initialized
+DEBUG - 2015-12-01 19:32:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:32:51 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:32:51 --> Form Validation Class Initialized
+DEBUG - 2015-12-01 19:32:51 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:32:51 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 28
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: is_new C:\xampp\htdocs\bondora\application\views\filters\edit.php 30
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 38
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 42
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 53
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 57
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 62
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 63
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 66
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 72
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 87
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 112
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 137
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 161
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 190
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 194
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 198
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 217
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 219
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 223
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 227
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 231
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 235
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 239
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 243
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 247
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 272
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 272
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 274
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 278
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 282
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 286
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 290
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 294
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 298
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 302
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 345
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 357
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 358
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 361
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 362
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 388
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 405
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 410
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 419
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 420
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 427
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 428
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 452
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 472
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 473
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 488
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 506
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 509
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 538
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 584
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 610
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 624
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 644
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 664
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 678
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 679
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 682
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 683
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 686
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 687
+ERROR - 2015-12-01 18:32:51 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 695
+INFO - 2015-12-01 18:32:51 --> File loaded: C:\xampp\htdocs\bondora\application\views\filters/edit.php
+INFO - 2015-12-01 18:32:51 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:32:51 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2015-12-01 18:32:51 --> Profiler Class Initialized
+INFO - 2015-12-01 18:32:51 --> Helper loaded: text_helper
+INFO - 2015-12-01 18:32:51 --> Final output sent to browser
+DEBUG - 2015-12-01 18:32:51 --> Total execution time: 0.1930
+INFO - 2015-12-01 19:32:57 --> Config Class Initialized
+INFO - 2015-12-01 19:32:57 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:32:57 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:32:57 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:32:57 --> URI Class Initialized
+INFO - 2015-12-01 19:32:57 --> Router Class Initialized
+INFO - 2015-12-01 19:32:57 --> Output Class Initialized
+INFO - 2015-12-01 19:32:57 --> Security Class Initialized
+DEBUG - 2015-12-01 19:32:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:32:57 --> Input Class Initialized
+INFO - 2015-12-01 19:32:57 --> Language Class Initialized
+INFO - 2015-12-01 19:32:57 --> Loader Class Initialized
+INFO - 2015-12-01 19:32:57 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:32:57 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:32:57 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:32:57 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:32:57 --> Controller Class Initialized
+INFO - 2015-12-01 19:32:57 --> Model Class Initialized
+INFO - 2015-12-01 19:32:57 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:32:57 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:32:57 --> Table Class Initialized
+DEBUG - 2015-12-01 19:32:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:32:57 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:32:57 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:32:58 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:32:58 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:32:58 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:32:58 --> Final output sent to browser
+DEBUG - 2015-12-01 19:32:58 --> Total execution time: 0.9691
+INFO - 2015-12-01 19:33:07 --> Config Class Initialized
+INFO - 2015-12-01 19:33:07 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:33:07 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:33:07 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:33:07 --> URI Class Initialized
+INFO - 2015-12-01 19:33:07 --> Router Class Initialized
+INFO - 2015-12-01 19:33:07 --> Output Class Initialized
+INFO - 2015-12-01 19:33:07 --> Security Class Initialized
+DEBUG - 2015-12-01 19:33:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:33:07 --> Input Class Initialized
+INFO - 2015-12-01 19:33:07 --> Language Class Initialized
+INFO - 2015-12-01 19:33:07 --> Loader Class Initialized
+INFO - 2015-12-01 19:33:07 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:33:07 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:33:07 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:33:07 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:33:07 --> Controller Class Initialized
+INFO - 2015-12-01 19:33:07 --> Model Class Initialized
+INFO - 2015-12-01 19:33:07 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:33:07 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:33:07 --> Table Class Initialized
+DEBUG - 2015-12-01 19:33:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:33:07 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:33:07 --> Form Validation Class Initialized
+DEBUG - 2015-12-01 19:33:07 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2015-12-01 18:33:07 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 28
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: is_new C:\xampp\htdocs\bondora\application\views\filters\edit.php 30
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 38
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 42
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 53
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 57
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 62
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 63
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 66
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 72
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 87
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 112
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 137
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 161
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 190
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 194
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 198
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 217
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 219
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 223
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 227
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 231
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 235
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 239
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 243
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 247
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 272
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 272
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 274
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 278
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 282
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 286
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 290
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 294
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 298
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 302
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 345
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 357
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 358
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 361
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 362
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 388
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 405
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 410
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 419
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 420
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 427
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 428
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 452
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 472
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 473
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 488
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 506
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 509
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 538
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 584
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 610
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 624
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 644
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 664
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 678
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 679
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 682
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 683
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 686
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 687
+ERROR - 2015-12-01 18:33:07 --> Severity: Notice --> Undefined variable: filter C:\xampp\htdocs\bondora\application\views\filters\edit.php 695
+INFO - 2015-12-01 18:33:07 --> File loaded: C:\xampp\htdocs\bondora\application\views\filters/edit.php
+INFO - 2015-12-01 18:33:07 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 18:33:07 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2015-12-01 18:33:07 --> Profiler Class Initialized
+INFO - 2015-12-01 18:33:07 --> Helper loaded: text_helper
+INFO - 2015-12-01 18:33:07 --> Final output sent to browser
+DEBUG - 2015-12-01 18:33:07 --> Total execution time: 0.1690
+INFO - 2015-12-01 19:33:45 --> Config Class Initialized
+INFO - 2015-12-01 19:33:45 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:33:45 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:33:45 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:33:45 --> URI Class Initialized
+INFO - 2015-12-01 19:33:45 --> Router Class Initialized
+INFO - 2015-12-01 19:33:45 --> Output Class Initialized
+INFO - 2015-12-01 19:33:45 --> Security Class Initialized
+DEBUG - 2015-12-01 19:33:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:33:45 --> Input Class Initialized
+INFO - 2015-12-01 19:33:45 --> Language Class Initialized
+INFO - 2015-12-01 19:33:45 --> Loader Class Initialized
+INFO - 2015-12-01 19:33:45 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:33:45 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:33:45 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:33:45 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:33:45 --> Controller Class Initialized
+INFO - 2015-12-01 19:33:45 --> Model Class Initialized
+INFO - 2015-12-01 19:33:45 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:33:45 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:33:45 --> Table Class Initialized
+DEBUG - 2015-12-01 19:33:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:33:45 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:33:45 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:33:46 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:33:46 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:33:46 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:33:46 --> Final output sent to browser
+DEBUG - 2015-12-01 19:33:46 --> Total execution time: 1.2531
+INFO - 2015-12-01 19:33:54 --> Config Class Initialized
+INFO - 2015-12-01 19:33:54 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:33:54 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:33:54 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:33:54 --> URI Class Initialized
+INFO - 2015-12-01 19:33:54 --> Router Class Initialized
+INFO - 2015-12-01 19:33:54 --> Output Class Initialized
+INFO - 2015-12-01 19:33:54 --> Security Class Initialized
+DEBUG - 2015-12-01 19:33:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:33:54 --> Input Class Initialized
+INFO - 2015-12-01 19:33:54 --> Language Class Initialized
+INFO - 2015-12-01 19:33:54 --> Loader Class Initialized
+INFO - 2015-12-01 19:33:54 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:33:54 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:33:54 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:33:54 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:33:54 --> Controller Class Initialized
+INFO - 2015-12-01 19:33:54 --> Model Class Initialized
+INFO - 2015-12-01 19:33:54 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:33:54 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:33:54 --> Table Class Initialized
+DEBUG - 2015-12-01 19:33:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:33:54 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:33:54 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:33:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+INFO - 2015-12-01 19:33:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\filters/index.php
+INFO - 2015-12-01 19:33:54 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:33:54 --> Final output sent to browser
+DEBUG - 2015-12-01 19:33:54 --> Total execution time: 0.4240
+INFO - 2015-12-01 19:34:05 --> Config Class Initialized
+INFO - 2015-12-01 19:34:05 --> Hooks Class Initialized
+DEBUG - 2015-12-01 19:34:05 --> UTF-8 Support Disabled
+INFO - 2015-12-01 19:34:05 --> Utf8 Class Initialized
+INFO - 2015-12-01 19:34:05 --> URI Class Initialized
+INFO - 2015-12-01 19:34:05 --> Router Class Initialized
+INFO - 2015-12-01 19:34:05 --> Output Class Initialized
+INFO - 2015-12-01 19:34:05 --> Security Class Initialized
+DEBUG - 2015-12-01 19:34:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-01 19:34:05 --> Input Class Initialized
+INFO - 2015-12-01 19:34:05 --> Language Class Initialized
+INFO - 2015-12-01 19:34:05 --> Loader Class Initialized
+INFO - 2015-12-01 19:34:05 --> Helper loaded: url_helper
+INFO - 2015-12-01 19:34:05 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-01 19:34:05 --> cURL Class Initialized
+DEBUG - 2015-12-01 19:34:05 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:34:05 --> Controller Class Initialized
+INFO - 2015-12-01 19:34:05 --> Model Class Initialized
+INFO - 2015-12-01 19:34:05 --> Database Driver Class Initialized
+DEBUG - 2015-12-01 19:34:05 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+INFO - 2015-12-01 19:34:05 --> Table Class Initialized
+DEBUG - 2015-12-01 19:34:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-01 19:34:05 --> Helper loaded: form_helper
+INFO - 2015-12-01 19:34:05 --> Form Validation Class Initialized
+INFO - 2015-12-01 19:34:05 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/header.php
+ERROR - 2015-12-01 19:34:05 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 384
+ERROR - 2015-12-01 19:34:05 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 384
+ERROR - 2015-12-01 19:34:05 --> Severity: Notice --> Undefined variable: all C:\xampp\htdocs\bondora\application\views\auctions\index.php 384
+INFO - 2015-12-01 19:34:05 --> File loaded: C:\xampp\htdocs\bondora\application\views\auctions/index.php
+INFO - 2015-12-01 19:34:05 --> File loaded: C:\xampp\htdocs\bondora\application\views\templates/footer.php
+INFO - 2015-12-01 19:34:05 --> Final output sent to browser
+DEBUG - 2015-12-01 19:34:05 --> Total execution time: 0.3770

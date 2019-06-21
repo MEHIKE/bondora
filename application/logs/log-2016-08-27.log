@@ -1,0 +1,136 @@
+DEBUG - 2016-08-27 05:30:46 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:46 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:46 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:46 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-08-27 05:30:46 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:46 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:47 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:47 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:47 --> Total execution time: 0.0790
+DEBUG - 2016-08-27 05:30:47 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-08-27 05:30:47 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2016-08-27 05:30:50 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:50 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:50 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:50 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:50 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:50 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:50 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-08-27 05:30:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:50 --> SELECT *
+FROM `select` `a`.*, `b`.`statusCode from auction_payload a LEFT JOIN bid_payload b ON a`.`auctionId=b`.`auctionId and a`.`user=b`.`userName where` `user="mehike"`
+DEBUG - 2016-08-27 05:30:50 --> Total execution time: 0.1260
+DEBUG - 2016-08-27 05:30:50 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-08-27 05:30:50 --> 404 Page Not Found: Auctions/bootstrap
+DEBUG - 2016-08-27 05:30:53 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:53 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:53 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:53 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-08-27 05:30:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:53 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 31 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:30:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-08-27 05:30:53 --> Total execution time: 0.1070
+DEBUG - 2016-08-27 05:30:53 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-08-27 05:30:53 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-08-27 05:30:55 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:55 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:55 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:55 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-08-27 05:30:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:30:57 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:30:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:30:57 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:30:57 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:31:02 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:31:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:31:02 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:31:02 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:31:04 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:31:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:31:04 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:31:04 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:31:04 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-08-27 05:31:04 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:31:04 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 31 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:05 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-08-27 05:31:05 --> Total execution time: 0.6171
+DEBUG - 2016-08-27 05:31:05 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:31:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-08-27 05:31:05 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-08-27 05:31:13 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:31:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-08-27 05:31:13 --> cURL Class Initialized
+DEBUG - 2016-08-27 05:31:13 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:31:13 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-08-27 05:31:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-08-27 05:31:15 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 31 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-08-27 05:31:15 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-08-27 05:31:15 --> Total execution time: 2.0282
+DEBUG - 2016-08-27 05:31:16 --> UTF-8 Support Disabled
+DEBUG - 2016-08-27 05:31:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-08-27 05:31:16 --> 404 Page Not Found: Investments/bootstrap

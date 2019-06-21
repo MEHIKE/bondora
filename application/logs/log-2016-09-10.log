@@ -1,0 +1,9 @@
+DEBUG - 2016-09-10 15:33:23 --> UTF-8 Support Disabled
+DEBUG - 2016-09-10 15:33:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-10 15:33:23 --> cURL Class Initialized
+DEBUG - 2016-09-10 15:33:23 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-10 15:33:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-10 15:33:23 --> Total execution time: 0.1740
+DEBUG - 2016-09-10 15:33:23 --> UTF-8 Support Disabled
+DEBUG - 2016-09-10 15:33:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-10 15:33:23 --> 404 Page Not Found: User/bootstrap

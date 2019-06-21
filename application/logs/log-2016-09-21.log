@@ -1,0 +1,24 @@
+DEBUG - 2016-09-21 10:38:54 --> UTF-8 Support Disabled
+DEBUG - 2016-09-21 10:38:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-21 10:38:54 --> cURL Class Initialized
+DEBUG - 2016-09-21 10:38:54 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-21 10:38:54 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-09-21 10:38:56 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\bondora\system\database\drivers\mysqli\mysqli_driver.php 161
+ERROR - 2016-09-21 10:38:56 --> Unable to connect to the database
+DEBUG - 2016-09-21 10:39:58 --> UTF-8 Support Disabled
+DEBUG - 2016-09-21 10:39:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-21 10:39:58 --> cURL Class Initialized
+DEBUG - 2016-09-21 10:39:58 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-21 10:39:58 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-09-21 10:40:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\bondora\system\database\drivers\mysqli\mysqli_driver.php 161
+ERROR - 2016-09-21 10:40:00 --> Unable to connect to the database
+DEBUG - 2016-09-21 11:22:02 --> UTF-8 Support Disabled
+DEBUG - 2016-09-21 11:22:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-21 11:22:02 --> cURL Class Initialized
+DEBUG - 2016-09-21 11:22:02 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-21 11:22:02 --> Session class already loaded. Second attempt ignored.
+ERROR - 2016-09-21 11:22:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ C:\xampp\htdocs\bondora\system\database\drivers\mysqli\mysqli_driver.php 161
+ERROR - 2016-09-21 11:22:04 --> Unable to connect to the database

@@ -1,0 +1,54 @@
+INFO - 2015-12-11 06:38:34 --> Config Class Initialized
+INFO - 2015-12-11 06:38:34 --> Hooks Class Initialized
+DEBUG - 2015-12-11 06:38:34 --> UTF-8 Support Disabled
+INFO - 2015-12-11 06:38:34 --> Utf8 Class Initialized
+INFO - 2015-12-11 06:38:34 --> URI Class Initialized
+INFO - 2015-12-11 06:38:34 --> Router Class Initialized
+INFO - 2015-12-11 06:38:34 --> Output Class Initialized
+INFO - 2015-12-11 06:38:34 --> Security Class Initialized
+DEBUG - 2015-12-11 06:38:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-11 06:38:34 --> Input Class Initialized
+INFO - 2015-12-11 06:38:34 --> Language Class Initialized
+INFO - 2015-12-11 06:38:34 --> Loader Class Initialized
+INFO - 2015-12-11 06:38:34 --> Helper loaded: url_helper
+INFO - 2015-12-11 06:38:34 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-11 06:38:34 --> cURL Class Initialized
+DEBUG - 2015-12-11 06:38:34 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-11 06:38:34 --> Controller Class Initialized
+INFO - 2015-12-11 06:38:34 --> Helper loaded: form_helper
+DEBUG - 2015-12-11 06:38:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-11 06:38:34 --> Form Validation Class Initialized
+INFO - 2015-12-11 06:38:34 --> Email Class Initialized
+INFO - 2015-12-11 06:38:34 --> Database Driver Class Initialized
+INFO - 2015-12-11 06:38:35 --> Model Class Initialized
+INFO - 2015-12-11 06:38:35 --> Model Class Initialized
+INFO - 2015-12-11 06:38:35 --> File loaded: C:\xampp\htdocs\bondora\application\views\user_registration_view.php
+INFO - 2015-12-11 06:38:35 --> Final output sent to browser
+DEBUG - 2015-12-11 06:38:35 --> Total execution time: 0.4430
+INFO - 2015-12-11 06:44:11 --> Config Class Initialized
+INFO - 2015-12-11 06:44:11 --> Hooks Class Initialized
+DEBUG - 2015-12-11 06:44:11 --> UTF-8 Support Disabled
+INFO - 2015-12-11 06:44:11 --> Utf8 Class Initialized
+INFO - 2015-12-11 06:44:11 --> URI Class Initialized
+INFO - 2015-12-11 06:44:11 --> Router Class Initialized
+INFO - 2015-12-11 06:44:11 --> Output Class Initialized
+INFO - 2015-12-11 06:44:11 --> Security Class Initialized
+DEBUG - 2015-12-11 06:44:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2015-12-11 06:44:11 --> Input Class Initialized
+INFO - 2015-12-11 06:44:11 --> Language Class Initialized
+INFO - 2015-12-11 06:44:11 --> Loader Class Initialized
+INFO - 2015-12-11 06:44:11 --> Helper loaded: url_helper
+INFO - 2015-12-11 06:44:11 --> Session: Class initialized using 'files' driver.
+DEBUG - 2015-12-11 06:44:11 --> cURL Class Initialized
+DEBUG - 2015-12-11 06:44:11 --> OAuth2 class already loaded. Second attempt ignored.
+INFO - 2015-12-11 06:44:11 --> Controller Class Initialized
+INFO - 2015-12-11 06:44:11 --> Helper loaded: form_helper
+DEBUG - 2015-12-11 06:44:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2015-12-11 06:44:11 --> Form Validation Class Initialized
+INFO - 2015-12-11 06:44:11 --> Email Class Initialized
+INFO - 2015-12-11 06:44:11 --> Database Driver Class Initialized
+INFO - 2015-12-11 06:44:11 --> Model Class Initialized
+INFO - 2015-12-11 06:44:11 --> Model Class Initialized
+INFO - 2015-12-11 06:44:11 --> File loaded: C:\xampp\htdocs\bondora\application\views\user_registration_view.php
+INFO - 2015-12-11 06:44:11 --> Final output sent to browser
+DEBUG - 2015-12-11 06:44:11 --> Total execution time: 0.3980

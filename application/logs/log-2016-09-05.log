@@ -1,0 +1,518 @@
+DEBUG - 2016-09-05 06:41:38 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:38 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:38 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:38 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:41:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:38 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:38 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:38 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:38 --> Total execution time: 0.0620
+DEBUG - 2016-09-05 06:41:38 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:41:38 --> 404 Page Not Found: User/bootstrap
+DEBUG - 2016-09-05 06:41:40 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:40 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:40 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:41 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:41 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:41 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:41 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:41:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:41 --> SELECT *
+FROM `select` `a`.*, `b`.`statusCode from auction_payload a LEFT JOIN bid_payload b ON a`.`auctionId=b`.`auctionId and a`.`user=b`.`userName where` `user="mehike"`
+DEBUG - 2016-09-05 06:41:41 --> Total execution time: 0.1860
+DEBUG - 2016-09-05 06:41:41 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:41:41 --> 404 Page Not Found: Auctions/bootstrap
+DEBUG - 2016-09-05 06:41:44 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:44 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:44 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:44 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:41:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:44 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:44 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:41:44 --> Total execution time: 0.1060
+DEBUG - 2016-09-05 06:41:44 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:41:44 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:41:45 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:45 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:45 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:45 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:41:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:47 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:47 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:47 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:53 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:53 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:53 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:55 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:55 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:55 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:55 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:41:55 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:55 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:41:56 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:41:56 --> Total execution time: 0.3990
+DEBUG - 2016-09-05 06:41:56 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:41:56 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:41:59 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:41:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:41:59 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:41:59 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:41:59 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:41:59 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:01 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:42:01 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:42:01 --> Total execution time: 2.0271
+DEBUG - 2016-09-05 06:42:01 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:42:01 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:42:06 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:06 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:06 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:06 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:06 --> Total execution time: 0.5860
+DEBUG - 2016-09-05 06:42:07 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:07 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:07 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:07 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:07 --> Total execution time: 0.2610
+DEBUG - 2016-09-05 06:42:09 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:09 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:09 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:09 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:10 --> Total execution time: 0.5780
+DEBUG - 2016-09-05 06:42:10 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:10 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:10 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:10 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:10 --> Total execution time: 0.3160
+DEBUG - 2016-09-05 06:42:15 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:15 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:15 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:15 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:15 --> Total execution time: 0.6000
+DEBUG - 2016-09-05 06:42:15 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:15 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:15 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:15 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:15 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:16 --> Total execution time: 0.3080
+DEBUG - 2016-09-05 06:42:18 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:18 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:18 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:18 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:18 --> Total execution time: 0.5520
+DEBUG - 2016-09-05 06:42:18 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:18 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:18 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:18 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:18 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:19 --> Total execution time: 0.2780
+DEBUG - 2016-09-05 06:42:21 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:21 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:21 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:21 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:21 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:21 --> Total execution time: 0.5860
+DEBUG - 2016-09-05 06:42:22 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:22 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:22 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:22 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:22 --> Total execution time: 0.3260
+DEBUG - 2016-09-05 06:42:24 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:24 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:24 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:24 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:24 --> Total execution time: 0.5710
+DEBUG - 2016-09-05 06:42:25 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:25 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:25 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:25 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:25 --> Total execution time: 0.3360
+DEBUG - 2016-09-05 06:42:27 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:27 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:27 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:27 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:28 --> Total execution time: 0.5710
+DEBUG - 2016-09-05 06:42:28 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:28 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:28 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:28 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:28 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:28 --> Total execution time: 0.3240
+DEBUG - 2016-09-05 06:42:31 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:31 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:31 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:31 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:31 --> Total execution time: 0.5710
+DEBUG - 2016-09-05 06:42:31 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:31 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:31 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:31 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:32 --> Total execution time: 0.3190
+DEBUG - 2016-09-05 06:42:34 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:34 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:34 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:34 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:35 --> Total execution time: 0.5300
+DEBUG - 2016-09-05 06:42:35 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:35 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:35 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:35 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:35 --> Total execution time: 0.4060
+DEBUG - 2016-09-05 06:42:41 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:41 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:41 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:41 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:41 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:41 --> Total execution time: 0.6820
+DEBUG - 2016-09-05 06:42:41 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:42 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:42 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:42 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:42 --> Total execution time: 0.3330
+DEBUG - 2016-09-05 06:42:44 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:44 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:44 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:44 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:45 --> Total execution time: 0.5710
+DEBUG - 2016-09-05 06:42:45 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:45 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:45 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:45 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:45 --> Total execution time: 0.3690
+DEBUG - 2016-09-05 06:42:47 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:47 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:47 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:47 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:48 --> Total execution time: 0.6230
+DEBUG - 2016-09-05 06:42:48 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:48 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:48 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:48 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:48 --> Total execution time: 0.4250
+DEBUG - 2016-09-05 06:42:51 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:51 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:51 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:51 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:51 --> Total execution time: 0.5720
+DEBUG - 2016-09-05 06:42:51 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:42:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:42:51 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:42:51 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:51 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:42:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:42:52 --> Total execution time: 0.3160
+DEBUG - 2016-09-05 06:43:13 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:13 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:13 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:13 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3696 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3672 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3673 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3679 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3676 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3689 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3683 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3684 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3682 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3685 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3688 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3693 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:13 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3687 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:19 --> Total execution time: 5.7493
+DEBUG - 2016-09-05 06:43:19 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:43:19 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:43:22 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:22 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:22 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:22 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:22 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:22 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:43:22 --> Total execution time: 0.0750
+DEBUG - 2016-09-05 06:43:22 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:43:22 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:43:26 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:26 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:26 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:26 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:27 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:27 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:43:27 --> Total execution time: 0.9731
+DEBUG - 2016-09-05 06:43:27 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:43:27 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:43:30 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:30 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:30 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:30 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:30 --> Total execution time: 0.6040
+DEBUG - 2016-09-05 06:43:30 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:31 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:31 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:31 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:31 --> Total execution time: 0.3480
+DEBUG - 2016-09-05 06:43:36 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:36 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:36 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:36 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:36 --> Total execution time: 0.5180
+DEBUG - 2016-09-05 06:43:36 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:36 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:36 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:36 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:36 --> Total execution time: 0.2880
+DEBUG - 2016-09-05 06:43:47 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:47 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:47 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:47 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:47 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:47 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3705 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:47 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId WHERE a`.`id=3717 and user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+DEBUG - 2016-09-05 06:43:48 --> Total execution time: 1.6031
+DEBUG - 2016-09-05 06:43:48 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:43:48 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:43:50 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:50 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:50 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:50 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:50 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 30 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:50 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:43:50 --> Total execution time: 0.0820
+DEBUG - 2016-09-05 06:43:50 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:43:50 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:43:53 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:43:53 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:43:53 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:53 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:43:53 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:43:53 --> SELECT *
+FROM `select` `a`.*, `b`.`listedOnDate`, `b`.`xirr`, `b`.`secondaryId`, `b`.`desiredDiscountRate from bondora`.`investment_payload a LEFT JOIN bondora`.`secondary b ON a`.`loanPartId=b`.`loanPartId and a`.`user=b`.`user where a`.`user="mehike" order by` `a`.`signedDate`, `a`.`auctionId`
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 35 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 41 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 32 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+ERROR - 2016-09-05 06:43:53 --> Severity: Notice --> Undefined offset: 33 C:\xampp\htdocs\bondora\application\views\investments\index.php 880
+DEBUG - 2016-09-05 06:43:53 --> Total execution time: 0.9091
+DEBUG - 2016-09-05 06:43:54 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:43:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:43:54 --> 404 Page Not Found: Investments/bootstrap
+DEBUG - 2016-09-05 06:47:19 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:47:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:47:19 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:47:19 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:47:19 --> C:\xampp\htdocs\bondora\application\libraries/MY_Table.php exists, but does not declare MY_Table
+DEBUG - 2016-09-05 06:47:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:47:19 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:47:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2016-09-05 06:47:19 --> cURL Class Initialized
+DEBUG - 2016-09-05 06:47:19 --> OAuth2 class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:47:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2016-09-05 06:47:19 --> Total execution time: 0.0960
+DEBUG - 2016-09-05 06:47:19 --> UTF-8 Support Disabled
+DEBUG - 2016-09-05 06:47:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2016-09-05 06:47:19 --> 404 Page Not Found: User/bootstrap
